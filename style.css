@@ -1,0 +1,412 @@
+			body{
+			background-color: #121316;
+			}
+			
+			.covertak1{
+			background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url("work1/lbbg.jpg");
+			background-color: #35484f;
+			overflow: hidden;			
+			background-position: 10% 10%;	
+			background-attachment: fixed;
+			background-size: cover;
+			}
+			
+			.covertak2{
+			background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url("work1/ntbg.jpg");
+			background-color: #35484f;
+			overflow: hidden;			
+			background-position: 10% 10%;	
+			background-attachment: fixed;
+			background-size: cover;
+			}
+						
+			.cover1{
+			background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url("gamesimages/bg2.jpg");
+			background-color: #35484f;
+			overflow: hidden;			
+			background-position: 10% 10%;	
+			background-attachment: fixed;
+			background-size: cover;
+			}	
+			
+			h1{
+				
+				color: white;
+			}
+			
+			p{
+			font-size: 24px;
+			}
+
+			.cover1 h1{
+				
+
+			}
+			
+			.prodhead{
+			color: white;
+			text-align:center;
+			margin: 10% 0 50 0;
+			font-family: 'DM Serif Display', serif;
+				
+			}
+			
+			.cover1 img{
+			text-align:center;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 40%;
+			}
+			
+			p{
+			color: white;
+			text-align:center;
+			margin: 0 10% 200 10%;
+			font-family: 'DM Serif Display', serif;
+			}
+			
+			
+			.cover2{
+			background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url("gamesimages/bg1.jpg");
+			overflow: hidden;			
+			background-position: 50% 15%;	
+			background-attachment: fixed;
+			background-size: cover;
+			}	
+			
+			.cover3{
+			background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url("gamesimages/bg2.jpg");
+			overflow: hidden;			
+			background-position: 50% 15%;	
+			background-attachment: fixed;
+			background-size: cover;
+			}	
+			
+										
+			.productdiv{
+			width: 100%;
+			margin: 90 0 100 0;
+			}
+			
+			.gameimages p{
+			
+			}
+			
+			
+			
+			
+			.gameimagesdiv{
+			width: 100%;
+			margin: 90 0 50 0;
+			}
+			
+			.productdiv img{
+				width: 70%;
+				border-radius: 10%;
+				
+			}
+			
+			.products h1{
+			font-size: 100%;
+			color: white;
+			}
+			
+			.serieshead{
+			margin-top: 20px;
+			}
+			
+			
+			.footer{
+				background-color: 242424;	
+				overflow: hidden;					
+			}
+			
+			.footer h1{
+				margin: 20 0 10 0;	
+				text-decoration:underline;	
+				font-size: 25px;	
+				color: 00fff7;		
+				font-family: 'Squada One', cursive;	
+			}
+			
+			.footer p{
+				margin: 0 0 0 0;	
+				font-size: 15px;	
+			}
+			
+			.embed-responsive{
+				width: 30%;
+				
+				
+			}
+
+			
+			
+			
+	
+			
+			.navbar-toggler-icon{
+			background-image: url(essentials/bar.png)!important
+			}
+			
+			.nav-link{
+			color: white !important;
+			}
+			
+	
+			
+			.list-group-item{
+			background-color:#252525;	
+			}
+			
+			.list-group-item h5{
+			color:#ffffff;
+			}
+		
+			.list-group-item p{
+			color:#b5b5b5!important
+			}
+
+			.list-group-item h6{
+			color:#f9ffa3;
+			}
+			
+			.nav-link{
+			font-size: 30px;
+			font-family: 'Squada One', cursive;
+			
+			}
+			
+			.dropdown-item{
+			font-size: 30px;
+			font-family: 'Squada One', cursive;
+			}
+			
+			.nav-link:hover{
+				color:#26e1ff!important;
+				
+			}
+			
+			.order-lg-2{
+				margin: 0 0 50px 0				
+			}
+			
+
+
+			@media screen and (max-width: 768px) and (min-width: 300px)  { 	
+
+
+				#welcome{
+				margin: 100 0 100 0;
+				font-size: 50;
+				}
+
+			
+			
+				.serieshead
+				{
+					margin: -30 0 -30 0;	
+				}
+			
+			
+				h1{
+					margin: 0 0 20 0;
+				}
+	
+				
+
+				
+				
+				video{
+				text-align:center;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 90%;
+				}
+				
+				img{
+				text-align:center;
+				display: block;
+				margin: 0 0 50 0;
+				margin-left: auto;
+				margin-right: auto;
+				width: 110%;
+				
+				}
+			
+			
+				.navbar-toggler{
+				background-color: #34363c;
+				}
+	
+				.productdiv .products{
+				width: 70%;
+				color: lightgray;
+				margin: 0 0 100 0;
+				}
+				
+				.gameimagesdiv{
+				width: 70%;
+				color: lightgray;
+				margin: 0 0 100 0;
+				}
+				
+		
+				.font-italic{
+				margin: 0 0 10 0;		
+				}
+				
+				.cover1{
+				background-color: #35484f;
+				overflow: hidden;			
+				background-position: 45% 50%;	
+				background-attachment: fixed;
+				background-size: cover;
+				}	
+				
+				.cover3{
+				background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url("gamesimages/bg2.jpg");
+				overflow: hidden;			
+				background-position: 80% 15%;	
+				background-attachment: fixed;
+				background-size: cover;
+				}	
+				
+				.coverfebg{
+				background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url("homeimages/febg.jpg");
+				overflow: hidden;			
+				background-position: 90% 0;	
+				background-attachment: fixed;
+				background-size: cover;
+				}
+				
+				.socialdesc{
+				margin: 0 50 0 50;
+					
+				}
+				
+				
+				
+
+				}
+				
+				
+			
+			@media screen and (max-width: 1279px) and (min-width: 769px)  { 
+				
+				
+		
+		
+		
+				h1
+				{
+					margin: -80 0 0 0;
+				}
+		
+		
+					.serieshead
+				{
+					margin: -80 0 -30 0;	
+				}
+				
+				.productdiv .products{
+				display: inline-block;
+				width: 20%;
+				color: lightgray;
+			}
+			
+				
+
+				
+				.products{
+				transition: transform .5s;
+					
+				}
+				
+				.products:hover{
+				transform: scale(1.2); 
+					
+				}
+				
+				
+				
+				.align-items-center{
+				margin-bottom: 100px;								
+				}
+				
+				.px-5{
+				margin: 0 0 0 0;
+					
+				}
+				
+				.font-italic{
+				
+					
+				}
+				
+				img{
+					width: 50%;
+					margin: 0 0 100 0;
+					
+					
+				}
+				
+				video{
+					width: 70%;
+					margin: 140 0 -50 0;	
+				}
+				
+				.cover1{
+				background-color: #35484f;
+				overflow: hidden;			
+				background-position: 45% 50%;	
+				background-attachment: fixed;
+				background-size: cover;
+				}
+				
+
+				
+				
+				
+			
+			}
+			
+			@media screen and (min-width: 1280px){ 
+								
+				
+				.productdiv .products{
+				display: inline-block;
+				width: 20%;
+				color: lightgray;
+			}
+			
+			
+				.gameimages{
+				display: inline-block;
+				width: 30%;
+				color: lightgray;
+			}
+				
+					
+				.products{
+				transition: transform .5s;
+					
+				}
+				
+				.products:hover{
+				transform: scale(1.2); 
+					
+				}
+				
+				.align-items-center{
+				margin-bottom: 100px;			
+				}
+				
+				
+
+				
+			}
+			
+			
